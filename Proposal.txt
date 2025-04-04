@@ -1,0 +1,38 @@
+ will be using the pre approved project 1 idea of analyzing variables for off shore wind farms and their wind
+Turbines on hand. I have a couple listed already down below just south of Massachusetts for example.
+
+
+US Wind Farms will follow this example: 
+
+        "name": 
+        "capacity_mw": 
+        "turbine_mw": 
+        "num_turbines": 
+        "depth_m": 
+        "distance_to_shore_m": 
+
+Example:
+        "name": "Vineyard Wind 1",
+        "capacity_mw": 806,
+        "turbine_mw": 13,
+        "num_turbines": 62,
+        "depth_m": -42,
+        "distance_to_shore_m": 42139
+
+############################################################################################################################
+
+
+Turbines will follow this format: 
+
+        "model": "
+        "foundation": 
+        "water_depth": 
+        "turbine_mw": 
+        "distance_to_shore": 
+
+Example :
+        "model": "Haliade-X 13",
+        "foundation": "Monopile",
+        "water_depth": -42,
+        "turbine_mw": 13,
+        "distance_to_shore": 43754
